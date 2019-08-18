@@ -1,2 +1,2 @@
 language: ruby
-script: ruby ./**/*.rb
+script: ruby ./*.rb
